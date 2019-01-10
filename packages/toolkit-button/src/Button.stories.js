@@ -2,7 +2,7 @@ import { storiesOf } from '@storybook/vue';
 
 import MyButton from './Button.vue';
 
-storiesOf('Button', module)
+storiesOf('Components|Button', module)
   .add('Default', () => ({
     components: { MyButton },
     template: '<MyButton></MyButton>'
