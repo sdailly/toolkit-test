@@ -1,10 +1,10 @@
 {
-  "name": "@ai-toolkit/vue-toolkit-button",
+  "name": "vue-toolkit-button",
   "version": "1.1.4-alpha.0",
   "main": "dist/index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdailly/ai-toolkit-button.git"
+    "url": "https://github.com/sdailly/toolkit-button.git"
   }
 }
