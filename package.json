@@ -3,5 +3,8 @@
   "private": false,
   "devDependencies": {
     "lerna": "^3.13.1"
+  },
+  "publishConfig" : {
+    "registry" : "http://localhost:8081/repository/npm-internal/"
   }
 }
