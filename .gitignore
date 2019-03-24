@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+
+node_modules/
+
+logs
+*.log
+.cache/
+
+.coverage/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/**/dist/
+/packages/**/LICENSE
