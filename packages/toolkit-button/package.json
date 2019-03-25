@@ -1,6 +1,6 @@
 {
   "name": "sd-toolkit-button",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "src/Button.vue",
   "repository": {
     "type": "git",
