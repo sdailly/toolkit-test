@@ -7,6 +7,6 @@
     "url": "https://github.com/sdailly/toolkit-button.git"
   },
   "publishConfig": {
-    "registry": "http://localhost:8081/repository/npm-internal/"
+    "registry": "http://localhost:8081/repository/npm-hosted/"
   }
 }
